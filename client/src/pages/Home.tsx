@@ -43,13 +43,13 @@ export default function Home() {
         <a className="brand" href="#top" aria-label="Privacy policy, back to top">
           <BrandMark />
           <span className="brand-copy">
-            <span className="brand-name">A MORE PRIVATE APP</span>
+            <span className="brand-name">Gamedayy APPs</span>
             <span className="brand-subtitle">PRIVACY CENTER</span>
           </span>
         </a>
         <div className="header-note"><span className="status-dot" /> A straightforward guide to your data</div>
         <a className="header-date" href="#policy">
-          <span>Effective September 22, 2026</span>
+          <span>Effective September 27, 2026</span>
           <ArrowDownRight size={15} strokeWidth={1.7} />
         </a>
       </header>
@@ -57,7 +57,7 @@ export default function Home() {
       <main>
         <section className="hero" aria-labelledby="page-title">
           <div className="hero-copy">
-            <div className="eyebrow"><span>PRIVACY POLICY</span><span className="eyebrow-rule" /><span>SEPTEMBER 22, 2026</span></div>
+            <div className="eyebrow"><span>PRIVACY POLICY</span><span className="eyebrow-rule" /><span>SEPTEMBER 27, 2026</span></div>
             <h1 id="page-title">Your life is personal.<br /><em>Your data should be, too.</em></h1>
             <p className="hero-description">A clear, plain-language look at what happens to information when you use our app—and what stays in your hands.</p>
             <a className="hero-link" href="#policy">Read the policy <ArrowDownRight size={16} strokeWidth={1.8} /></a>
@@ -173,7 +173,7 @@ export default function Home() {
               <div className="section-body">
                 <h2>Contact us</h2>
                 <p>If you have any questions or concerns about this Privacy Policy, please contact us at:</p>
-                <div className="contact-card"><span className="contact-label">EMAIL</span><span className="contact-value">[Insert Support Email Address]</span></div>
+                <div className="contact-card"><span className="contact-label">EMAIL</span><span className="contact-value"><a href="mailto:the.real.double.o.seven@gmail.com">Send Email</a></span></div>
               </div>
             </section>
           </article>
