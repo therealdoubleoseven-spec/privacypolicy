@@ -171,9 +171,9 @@ export default function Home() {
             <section className="policy-section policy-section-last" id="contact">
               <div className="section-index">07</div>
               <div className="section-body">
-                <h2>Contact us</h2>
+                <h2>Get Connected</h2>
                 <p>If you have any questions or concerns about this Privacy Policy, please contact us at:</p>
-                <div className="contact-card"><span className="contact-label">EMAIL</span><span className="contact-value"><a href="mailto:the.real.double.o.seven@gmail.com">Send Email</a></span></div>
+                <div className="contact-card"><span className="contact-label">EMAIL</span><span className="contact-value"><a href="mailto:the.real.double.o.seven@gmail.com" target="_blank">Send Email</a></span></div>
               </div>
             </section>
           </article>
@@ -182,7 +182,7 @@ export default function Home() {
 
       <footer className="site-footer">
         <a className="footer-brand" href="#top"><BrandMark /><span>Privacy, kept simple.</span></a>
-        <span className="footer-note">Effective September 22, 2026 <span>·</span> <a href="#top">Back to top ↑</a></span>
+        <span className="footer-note">Effective September 27, 2026 <span>·</span> <a href="#top">Back to top ↑</a></span>
       </footer>
     </div>
   );
